@@ -1,0 +1,16 @@
+__pycache__
+
+*.*~
+
+*.pyc
+
+.env
+
+.idea
+
+config.py
+
+y_finance.py
+
+notas/*
+notas_importadas/*
